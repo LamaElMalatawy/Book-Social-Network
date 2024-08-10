@@ -10,6 +10,9 @@
         <module name="book-social-network" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book-social-network" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
